@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hello Im Connor Im an android sent by cyberlife
 Use the left arrow to go back!
